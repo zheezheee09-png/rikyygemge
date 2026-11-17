@@ -1,0 +1,40 @@
+*,
+html {
+ margin: 0;
+ padding: 0;
+}
+ .containner-navbar {
+
+    background-color: #000;
+    width= 600px;
+    height= 100px;
+ }
+
+ .ul-navbar {
+    display: flex;
+    height="100px";
+    justify-content: center;
+    align-items= center;
+ }
+
+ .li-navbar {
+  border : 1px solid white;
+  background: black;
+  list-style-type: none;
+  padding: 10px;
+  margin:"5px";
+  color:white;
+
+ }
+
+ .container-content {
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .img-content{
+
+    width: 30%;
+ }
